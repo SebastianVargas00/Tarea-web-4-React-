@@ -5,7 +5,7 @@ Tarea Web 4 (React)
 Sebastian Vargas 2019-7820
 
 Nota: En vez de hacer varios botones , cree solo un boton que envie y actualize la pagina para que al instante de enviar , se actualize la pagina y se vean los datos 
-enviados al final de la tabla.
+enviados al final de la tabla y esto tambien limpia los campos.
 
-Tambien solo enseño unos cuantos datos ya que son mas de 300 arrays.
+Tambien solo enseño unos cuantos datos ya que son mas de 300 arrays, pero al ejecutar el proyecto se puede ver todos los datos en la tabla.
 
